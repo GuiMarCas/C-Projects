@@ -1,0 +1,7 @@
+D:\PROGRAMMING\C#\Ejercicio sin nombre\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\PROGRAMMING\C#\Ejercicio sin nombre\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\PROGRAMMING\C#\Ejercicio sin nombre\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\PROGRAMMING\C#\Ejercicio sin nombre\ConsoleApp1\obj\Debug\SimpleAreaCalculator.csproj.AssemblyReference.cache
+D:\PROGRAMMING\C#\Ejercicio sin nombre\ConsoleApp1\obj\Debug\SimpleAreaCalculator.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\C#\Ejercicio sin nombre\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\PROGRAMMING\C#\Ejercicio sin nombre\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
